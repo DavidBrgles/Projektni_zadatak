@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>David Brgles</title>
+</head>
+<body>
+
+
+<nav>
+
+	<ul>
+	<h1>David Brgles</h1>
+	<li><a href="O MENI.html">O MENI</a></li>
+	<li><a href="VJEŽBE.html">VjEŽBE</a></li>
+	<li><a href="VIDEO.html">VIDEO</a></li>
+	</ul>
+
+</nav>
+
+
+<h2><b>Digitalni Multimedij 1</b></h2>
+<p>Ja sam David Brgles i ovo je moja web stranica.</p>
+
+
+
+
+<style>
+nav{
+  width: 100%; 
+  height: 90px; 
+  background: linear-gradient(141deg, #111, #111 28%, #2cb5e8);
+  }
+ul li a{
+  text-decoration: none;
+  color: #fff;
+}
+body{
+  background-image: url(slike/pozadina.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1{
+  color: white;
+}
+h2{
+  font-size: 20px;
+  align: center;
+}
+p{
+  font-size: 15px;
+}
+
+ul li{
+  float:left;
+  width: 140px;
+  font-size: 20px;
+  height: 80px;
+  line-height: 80px;
+  text-align: center;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+ }
+</style>
+
+
+</body>
+</html>
